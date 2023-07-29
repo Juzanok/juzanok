@@ -28,8 +28,8 @@
 | 6 | [CPP Module 07](https://github.com/Juzanok/CPP_Modules/tree/main/07) | Object-Oriented Programming concepts in C++ | [![jkarosas's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2887396)](https://github.com/JaeSeoKim/badge42) |
 | 6 | [CPP Module 08](https://github.com/Juzanok/CPP_Modules/tree/main/08) | Object-Oriented Programming concepts in C++ | [![jkarosas's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2894267)](https://github.com/JaeSeoKim/badge42) |
 | 6 | [CPP Module 09](https://github.com/Juzanok/CPP_Modules/tree/main/09) | Object-Oriented Programming concepts in C++ | [![jkarosas's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/3026640)](https://github.com/JaeSeoKim/badge42) |
-| 6 | webserv | Coding our own HTTP server | [![jkarosas's 42 webserv Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/3012731)](https://github.com/JaeSeoKim/badge42) |
-| 6 | Inception | Set up a small infrastructure composed of different services using Docker containers |  [![jkarosas's 42 Inception Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/3012579)](https://github.com/JaeSeoKim/badge42) |
+| 6 | [webserv](https://github.com/Juzanok/webserv) | Coding our own HTTP server | [![jkarosas's 42 webserv Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/3012731)](https://github.com/JaeSeoKim/badge42) |
+| 6 | [Inception](https://github.com/Juzanok/Inception) | Set up a small infrastructure composed of different services using Docker containers |  [![jkarosas's 42 Inception Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/3012579)](https://github.com/JaeSeoKim/badge42) |
 | 7 | ft_transcendence | Creating a website that allows users to chat and play Pong games against each other | |
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
