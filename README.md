@@ -7,7 +7,7 @@
 
 | Level | Project Name      | Description                         | result |
 |-------|-------------------|-------------------------------------|--------|
-| 1 | Libft | A custom C library containing useful functions for various tasks | [![jkarosas's 42 Libft Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2407639)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [Libft](https://github.com/Juzanok/Libft) | A custom C library containing useful functions for various tasks | [![jkarosas's 42 Libft Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2407639)](https://github.com/JaeSeoKim/badge42) |
 | 2 | get_next_line | A function that reads lines from a file descriptor in C, providing a convenient way to process text files one line at a time | [![jkarosas's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2427707)](https://github.com/JaeSeoKim/badge42) |
 | 2 | ft_printf | A C library that contains a function called ft_printf() which mimics the original printf() function | [![jkarosas's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2430454)](https://github.com/JaeSeoKim/badge42) |
 | 2 | Born2beroot | System Administration exercise that introduces you to the world of virtualization | [![jkarosas's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clknmr618001108mjxhcpt0ku/project/2447089)](https://github.com/JaeSeoKim/badge42) |
