@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Justas
 
-- 🔭 I’m currently working on ft_transcendance (42 Core Project)
-- 🌱 I’m currently learning NestJS, Postgress
+- 🔭 I’m currently working on ft_linear_regression (42 Advanced Project)
+- 🌱 I’m currently learning Python, machine learning basics, linear regression
 - 📫 How to reach me: karosasjustas@gmail.com
 
 # 💻 Technologies:
